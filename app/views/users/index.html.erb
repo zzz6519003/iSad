@@ -1,0 +1,5 @@
+<p>Find me in app/views/users/index.html.erb</p>
+<% @users.each do |f| %>
+    <%= link_to f.email, user_path(f) %> <%= current_user.following?(f) %> </br>
+<% end %>
+
