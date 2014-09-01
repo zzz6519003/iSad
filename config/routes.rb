@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  resources :ppps
+
+  resources :groups
+
   get 'comments/create'
 
   get 'home/index'

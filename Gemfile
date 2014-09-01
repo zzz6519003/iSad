@@ -31,6 +31,9 @@ gem 'bootstrap-sass', '~> 3.2.0'
 gem "acts_as_follower"
 gem 'acts_as_commentable'
 gem "socialization"
+gem "simple_form"
+gem "pry", '0.9.10'
+gem 'public_activity'
 
 
 
