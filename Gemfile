@@ -34,7 +34,7 @@ gem "socialization"
 gem "simple_form"
 gem "pry", '0.9.10'
 gem 'public_activity'
-
+gem 'kaminari'
 
 
 # Use ActiveModel has_secure_password
