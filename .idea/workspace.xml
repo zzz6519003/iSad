@@ -6,27 +6,27 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409476456513" ignored="false" />
     <file path="$PROJECT_DIR$/../ruby-china/Gemfile" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409234851947" ignored="false" />
-    <file path="/*.regexp" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409645466062" ignored="false" />
+    <file path="/*.regexp" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741925713" ignored="false" />
     <file path="/application.css.scss" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409236898183" ignored="false" />
-    <file path="/routes.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409269316419" ignored="false" />
-    <file path="/users_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409392093178" ignored="false" />
+    <file path="/routes.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741988305" ignored="false" />
+    <file path="/users_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409742079264" ignored="false" />
     <file path="/core.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409269989224" ignored="false" />
     <file path="/show.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409476201496" ignored="false" />
     <file path="/_registration_items.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409270883106" ignored="false" />
-    <file path="/application.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409445883702" ignored="false" />
-    <file path="/index.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409643442930" ignored="false" />
-    <file path="/user.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409475107999" ignored="false" />
+    <file path="/application.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741625613" ignored="false" />
+    <file path="/index.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409740066087" ignored="false" />
+    <file path="/user.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409734126133" ignored="false" />
     <file path="/posts_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409585663812" ignored="false" />
     <file path="/post.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409585599314" ignored="false" />
     <file path="$PROJECT_DIR$/../19wu/config/routes.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409451214508" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409451214508" ignored="false" />
     <file path="/user_group.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409475074983" ignored="false" />
     <file path="/group.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409475137493" ignored="false" />
-    <file path="/_form.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409475663929" ignored="false" />
+    <file path="/_form.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409735046358" ignored="false" />
     <file path="/groups_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409475806821" ignored="false" />
     <file path="$PROJECT_DIR$/../ruby-china/app/models/topic.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409496567568" ignored="false" />
     <file path="/topic.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409496567910" ignored="false" />
-    <file path="/Dummy.txt" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409660085150" ignored="false" />
+    <file path="/Dummy.txt" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409729171448" ignored="false" />
     <file path="$PROJECT_DIR$/../diaspora/config/database.yml" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409498017828" ignored="false" />
     <file path="$PROJECT_DIR$/../cms_6bey/app/models/user.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409584504708" ignored="false" />
     <file path="/posts.js.coffee" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409585971151" ignored="false" />
@@ -41,6 +41,33 @@
     <file path="/admin_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409664897405" ignored="false" />
     <file path="$PROJECT_DIR$/../diaspora/app/controllers/aspects_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409664932599" ignored="false" />
     <file path="/aspects_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409664924620" ignored="false" />
+    <file path="$PROJECT_DIR$/app/models/post.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409704280896" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/Gemfile" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409738282236" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/assets/javascripts/mock_objects.js" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741486993" ignored="false" />
+    <file path="/mock_objects.js" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409733690689" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/db/schema.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741765261" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/models/note.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741142191" ignored="false" />
+    <file path="/note.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741072392" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/models/user.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409734127475" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/controllers/notes_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741703078" ignored="false" />
+    <file path="/notes_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741685828" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/notes/index.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741578517" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/notes/_form.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741549400" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/assets/javascripts/notes.js" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409736469520" ignored="false" />
+    <file path="/notes.js" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409736349493" ignored="false" />
+    <file path="/new.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409736587822" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/notes/new.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741486993" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/config/routes.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741988744" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/static_pages/home.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741969299" ignored="false" />
+    <file path="/home.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741967838" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/devise/menu/_login_items.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409739767227" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/devise/menu/_registration_items.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409739783962" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/layouts/application.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741625613" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/assets/stylesheets/application.css" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409739835631" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/controllers/users_controller.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409742087462" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/app/views/users/index.html.erb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409740134460" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/spec/models/note.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409740499504" ignored="false" />
+    <file path="$PROJECT_DIR$/../LocationNotes/spec/models/note_spec.rb" changelist="b998590c-2218-4ceb-84be-58a836594598" time="1409741081656" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +90,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="9" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
+            <state line="37" column="0" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1409585077000" expanded="true" signature="397:555" placeholder="#..." />
               </folding>
@@ -71,10 +98,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posts_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="posts_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="31" selection-start="374" selection-end="374" vertical-scroll-proportion="0.026086956">
+            <state line="37" column="80" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_helper.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.24287856">
               <folding />
             </state>
           </provider>
@@ -119,7 +155,7 @@
       <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="19" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+            <state line="14" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -742,7 +778,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="815" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -824,13 +860,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="21" selection-start="2543" selection-end="2543" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="33" selection-start="730" selection-end="730" vertical-scroll-proportion="0.4924012" />
@@ -875,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="9" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
+        <state line="37" column="0" selection-start="1274" selection-end="1274" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1409585077000" expanded="true" signature="397:555" placeholder="#..." />
           </folding>
@@ -912,14 +941,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="19" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+        <state line="14" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="31" selection-start="374" selection-end="374" vertical-scroll-proportion="0.026086956">
+        <state line="37" column="80" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="230" selection-end="230" vertical-scroll-proportion="0.24287856">
           <folding />
         </state>
       </provider>
