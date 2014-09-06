@@ -1,6 +1,5 @@
 Rails.application.routes.draw do
 
-  get 'tags/:tag', to: 'posts#index', as: :tag
 
   resources :ppps
 
@@ -11,6 +10,9 @@ Rails.application.routes.draw do
   get 'home/index'
 
   resources :posts
+
+  get 'tags/:tag', to: 'posts#index', as: :tag
+  resources :tags
 
   #get 'users/index'
 

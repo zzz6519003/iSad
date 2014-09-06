@@ -4,7 +4,12 @@ class PostsController < ApplicationController
   # GET /posts
   # GET /posts.json
   def index
-    @posts = Post.all.page(params[:page])
+    if params[:tag]
+      #render :text => params[:tag]
+      @posts = Tag.find_by_id(params[:tag]).posts.page(params[:page])
+    else
+      @posts = Post.all.page(params[:page])
+    end
   end
 
   # GET /posts/1
